@@ -9,7 +9,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<Label text="Hello SFC"/>
+						<Label text="Hello SFC CAFE"/>
 					</content>
 				</Page>
 			</pages>
